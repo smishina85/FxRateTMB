@@ -1,6 +1,6 @@
 # FxRateTMB
-Telegram bot to get currency rates from eXchangeRate.com site.
 
+Telegram bot to get currency rates from eXchangeRate.com site.
 Бот возвращает цену на определённое количество валюты (евро, доллар или рубль).
 При написании бота необходимо использовать библиотеку pytelegrambotapi.
 Человек должен отправить сообщение боту в виде <имя валюты, цену которой он хочет узнать> <имя валюты, в которой надо узнать цену первой валюты> <количество первой валюты>.
