@@ -1,4 +1,4 @@
-# FxRateTMB
+# FxRateTMB : https://github.com/smishina85/FxRateTMB. (https://t.me/Cryptosmbot_bot)
 
 Telegram bot to get currency rates from eXchangeRate.com site.
 Бот возвращает цену на определённое количество валюты (евро, доллар или рубль).
