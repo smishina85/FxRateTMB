@@ -39,6 +39,8 @@ def convert(message: telebot.types.Message):
             raise APIException('Wrong quantity of parameters!')
 
         base, quote, amount = values_list
+        base = base.lower()
+        quote = quote.lower()
 
         fx_rate = CurrencyConverter.get_price(base, quote, amount)
     except APIException as e:
