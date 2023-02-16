@@ -1,4 +1,4 @@
-TOKEN = '6093433636:AAFTV5clJNZYQdkmHPXwwR8WFUBeDFGhrpo'
+TOKEN = '60934__636:__FTV5clJNZYQdkmHPXwwR8WFUBeDFGhrpo'
 
 keys = {'ruble': 'RUB',
         'euro': 'EUR',
@@ -6,4 +6,4 @@ keys = {'ruble': 'RUB',
         'pound': 'GBP'
         }
 
-API_KEY = '853aca69f9dee9321595b448'
+API_KEY = '853aca69f9__9321595b448'
